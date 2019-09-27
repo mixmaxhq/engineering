@@ -34,7 +34,7 @@ This dimension focuses on how an engineer supports themselves, their teammates, 
 
 Your level in a dimension at Mixmax is determined by which of these behaviours you consistently​ and ​regularly​ apply. Writing a spec does not instantly qualify you for L2 - think of it as needing to be able to demonstrate that you’re an L2 consistently for at least 3 months before you fully qualify.
 
-As you level up, we encourage a multifaceted approach - you’ll touch base with your manager at least quarterly to discuss how to iterate on this. If you want to focus in, and hone your superpowers, awesome! If you want to spend time working on your weaknesses, . We want you to focus on what will make you, as an individual, a phenomenal engineer. Everyone has specific superpowers that need to be continually replenished and developed, and working on weaknesses will increase your ability in other areas that then act as multiplying factors for your superpowers.
+As you level up, we encourage a multifaceted approach - you’ll touch base with your manager at least quarterly to discuss how to iterate on this. If you want to focus in, and hone your superpowers, awesome! If you want to spend time working on your weaknesses, 🙌. We want you to focus on what will make you, as an individual, a phenomenal engineer. Everyone has specific superpowers that need to be continually replenished and developed, and working on weaknesses will increase your ability in other areas that then act as multiplying factors for your superpowers.
 
 To reiterate this and to riff on how this ties into our values:
 - We all have our own superpowers, allowing us to build strength in our differences, and so it’s important to always be developing these.
